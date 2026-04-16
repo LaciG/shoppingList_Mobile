@@ -51,4 +51,4 @@ const styles = StyleSheet.create({
   },
 });
 
-// TODO: Videót innen folytatni --> https://youtu.be/TuwcMlYAJlA?si=5qR6Jahe-up6iasU&t=2806
+// TODO: Videót innen folytatni --> https://youtu.be/TuwcMlYAJlA?si=qLQuz2tJVRIQOnbZ&t=2925
