@@ -17,3 +17,5 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
 });
+
+// TODO: Videót 39:31 től folytatni --> https://youtu.be/TuwcMlYAJlA?si=XB72UP4fm-plZitE&t=2371
